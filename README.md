@@ -11,5 +11,6 @@
 [リリースページ](https://github.com/Lhaplus-K/yu-gi-oh-ocg-dictionary/releases)にアクセス頂き、利用ツールに合わせたファイルをDLしてください。
 
 Google日本語入力は yugioh-dic.txt を、
+MicrosoftIMEをご利用の場合は yugioh-dic_utf16le.txt または yugioh-dic_shift_jis.txt を、
 Android版Gboardをご利用の場合は yugioh-dic.zip をご利用ください。
 インポートの方法は各IMEのヘルプをご確認ください。
