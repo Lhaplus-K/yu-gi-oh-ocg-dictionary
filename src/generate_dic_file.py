@@ -1,6 +1,7 @@
 import pandas
 import zipfile
 from os import path
+from pandas import DataFrame
 
 READ_CSV_PATH = 'in/yugioh-dic.csv'
 OUT_DIR = 'out/'
@@ -14,6 +15,13 @@ def generate():
   df.to_csv(path_or_buf=f'{file_base_path}{EXT_TEXT}', sep='\t', header=False, index=False, encoding='utf-8')
   with zipfile.ZipFile(file=f'{file_base_path}{EXT_ZIP}', mode='w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
     zf.write(filename=f'{file_base_path}{EXT_TEXT}', arcname=f'{OUT_FILE_NAME}{EXT_TEXT}')
+  generate_for_mac(df, file_base_path)
+
+def generate_for_mac(data_frame: DataFrame, file_base_path: str):
+  df = data_frame
+  df = df.replace('固有名詞', 'その他の固有名詞')
+  df.to_csv(path_or_buf=f'{file_base_path}_mac{EXT_TEXT}', sep=',', header=False, index=False, encoding='utf-8')
+
 
 if __name__ == '__main__':
   generate()
