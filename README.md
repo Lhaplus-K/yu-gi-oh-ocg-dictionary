@@ -1,0 +1,1 @@
+# yu-gi-oh-ocg-dictionary
