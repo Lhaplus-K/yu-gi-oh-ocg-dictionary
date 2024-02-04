@@ -10,8 +10,11 @@
 
 [リリースページ](https://github.com/Lhaplus-K/yu-gi-oh-ocg-dictionary/releases)にアクセス頂き、利用ツールに合わせたファイルをDLしてください。
 
-Google日本語入力は `yugioh-dic.txt` を、  
-MicrosoftIMEをご利用の場合は `yugioh-dic_utf16le.txt` または `yugioh-dic_shift_jis.txt` を、  
-Android版Gboardをご利用の場合は `yugioh-dic.zip` を、  
-MacOSの日本語入力プログラムをご利用の場合は `yugioh-dic_mac.txt` をご利用ください。  
+|IME|対応ファイル|
+|:--|:--|
+|Google日本語入力|`yugioh-dic.txt`|
+|MicrosoftIME|`yugioh-dic_utf16le.txt`|
+|Android版Gboard|`yugioh-dic.zip`|
+|MacOSの日本語入力プログラム|`yugioh-dic_mac.txt`|
+
 インポートの方法は各IMEのヘルプをご確認ください。
