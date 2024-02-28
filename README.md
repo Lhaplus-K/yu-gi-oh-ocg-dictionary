@@ -15,6 +15,8 @@
 |Google日本語入力|`yugioh-dic.txt`|
 |MicrosoftIME|`yugioh-dic_utf16le.txt`|
 |Android版Gboard|`yugioh-dic.zip`|
-|MacOSの日本語入力プログラム|`yugioh-dic_mac.txt`|
+|macOS日本語入力 (ユーザ辞書)|`yugioh-dic_mac.plist`|
+|macOS日本語入力 (追加辞書)|`yugioh-dic_mac.txt`|
 
-インポートの方法は各IMEのヘルプをご確認ください。
+インポートの方法は各IMEのヘルプをご確認ください。  
+iPhone/iPadに追加したい場合、ユーザ辞書を登録したmacOSとiCloud同期を行うことで登録できます。  
