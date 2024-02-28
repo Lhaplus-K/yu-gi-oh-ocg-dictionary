@@ -378,8 +378,8 @@
 ゆうよくげんじゅう	有翼幻獣	固有名詞
 ゆべる	ユベル	固有名詞
 ゆべる	ユベル－Das Abscheulich Ritter	短縮よみ
-ゆべる	ユベル－Das Extremer Traurig Drachen	短縮よみ
 ゆべる	ユベル－Das Ewig Liebe Wächter	短縮よみ
+ゆべる	ユベル－Das Extremer Traurig Drachen	短縮よみ
 ゆべるだすあぷしぇりっひりったー	ユベル－Das Abscheulich Ritter	固有名詞
 ゆべるだすえーゔぃひりーべゔぇひたー	ユベル－Das Ewig Liebe Wächter	固有名詞
 ゆべるだすえくすとれーむとらうりひどらっへ	ユベル－Das Extremer Traurig Drachen	固有名詞
