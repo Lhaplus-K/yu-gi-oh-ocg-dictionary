@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import zipfile
 from os import path
 from pandas import DataFrame
+from pandera import Column, DataFrameSchema, Index
 
 READ_CSV_PATH = 'in/yugioh-dic.csv'
 OUT_DIR = 'out/'
@@ -13,9 +14,24 @@ EXT_ZIP = '.zip'
 XML_HEADER = '<?xml version="1.0" encoding="utf-8"?>'
 DOCTYPE = '<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">'
 
+def load_data_frame(filepath: str) -> DataFrame:
+  schema = DataFrameSchema(
+    {
+      'Reading': Column(str),
+      'Word': Column(str),
+      'Category': Column(str, nullable=True)
+    },
+    index=Index(int),
+    strict=True,
+    coerce=True
+  )
+  df = pandas.read_csv(filepath)
+  df = schema.validate(df)
+  return df
+
 def generate():
   file_base_path = path.join(OUT_DIR, OUT_FILE_NAME)
-  df = pandas.read_csv(READ_CSV_PATH)
+  df = load_data_frame(READ_CSV_PATH)
   df.to_csv(path_or_buf=f'{file_base_path}{EXT_TEXT}', sep='\t', header=False, index=False, encoding='utf-8')
   with zipfile.ZipFile(file=f'{file_base_path}{EXT_ZIP}', mode='w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
     zf.write(filename=f'{file_base_path}{EXT_TEXT}', arcname=f'{OUT_FILE_NAME}{EXT_TEXT}')
@@ -53,13 +69,13 @@ def add_plist_node(parent: ET.Element, word: str, reading: str):
   add_xml_child_node(dict_node, 'key', 'shortcut')
   add_xml_child_node(dict_node, 'string', reading)
 
-def add_xml_child_node(parent: ET.Element, tag: str, text: str=None):
+def add_xml_child_node(parent: ET.Element, tag: str, text: str=None) -> ET.Element:
   child = ET.SubElement(parent, tag)
   if text is not None:
     child.text = text
   return child
 
-def pretty_print(current: ET.Element, parent: ET.Element=None, index: int=-1, depth: int=0):
+def pretty_print(current: ET.Element, parent: ET.Element=None, index: int=-1, depth: int=0) -> ET.Element:
   for i, node in enumerate(current):
     pretty_print(node, current, i, depth + 1)
   if parent is None:
