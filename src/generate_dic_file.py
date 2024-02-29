@@ -27,6 +27,7 @@ def load_data_frame(filepath: str) -> DataFrame:
   )
   df = pandas.read_csv(filepath)
   df = schema.validate(df)
+  df = df.reindex(columns=['Reading', 'Word', 'Category'])
   return df
 
 def generate():
