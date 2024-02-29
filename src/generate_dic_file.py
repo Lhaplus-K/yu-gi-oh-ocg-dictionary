@@ -19,7 +19,7 @@ def load_data_frame(filepath: str) -> DataFrame:
     {
       'Reading': Column(str),
       'Word': Column(str),
-      'Category': Column(str, nullable=True)
+      'Category': Column(str, default='固有名詞')
     },
     index=Index(int),
     strict=True,
