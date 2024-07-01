@@ -136,6 +136,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>古代の機械竜</string>
+			<key>shortcut</key>
+			<string>あんてぃーくぎあどらごん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>竜星因士</string>
 			<key>shortcut</key>
 			<string>いーさてらないと</string>
@@ -499,6 +505,12 @@
 			<string>銀河の魔導師</string>
 			<key>shortcut</key>
 			<string>ぎゃらくしーうぃざーど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>銀河戦竜</string>
+			<key>shortcut</key>
+			<string>ぎゃらくしーうぉーどれいく</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1375,6 +1387,18 @@
 			<string>占術姫</string>
 			<key>shortcut</key>
 			<string>せんじゅつき</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>閃術兵器</string>
+			<key>shortcut</key>
+			<string>せんじゅつへいき</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>閃術兵器－S.P.E.C.T.R.A.</string>
+			<key>shortcut</key>
+			<string>せんじゅつへいきすぺくとら</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2513,6 +2537,12 @@
 		<dict>
 			<key>phrase</key>
 			<string>聖魔</string>
+			<key>shortcut</key>
+			<string>まぎすとす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>精霊</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
