@@ -1996,6 +1996,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>氷結界のロイヤル・ナイト</string>
+			<key>shortcut</key>
+			<string>ひょうけっかいのろいやるないと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>H・C</string>
 			<key>shortcut</key>
 			<string>ひろいっくちゃれんじゃー</string>
