@@ -13,10 +13,10 @@
 |IME|対応ファイル|
 |:--|:--|
 |Google日本語入力|`yugioh-dic.txt`|
-|MicrosoftIME|`yugioh-dic_utf16le.txt`|
+|MicrosoftIME|`yugioh-dic_microsoft.txt`|
 |Android版Gboard|`yugioh-dic.zip`|
-|macOS日本語入力 (ユーザ辞書)|`yugioh-dic_mac.plist`|
-|macOS日本語入力 (追加辞書)|`yugioh-dic_mac.txt`|
+|macOS日本語入力 (ユーザ辞書)|`yugioh-dic_mac_user.plist`|
+|macOS日本語入力 (追加辞書)|`yugioh-dic_mac_add.txt`|
 
 インポートの方法は各IMEのヘルプをご確認ください。  
 iPhone/iPadに追加したい場合、ユーザ辞書を登録したmacOSとiCloud同期を行うことで登録できます。  
