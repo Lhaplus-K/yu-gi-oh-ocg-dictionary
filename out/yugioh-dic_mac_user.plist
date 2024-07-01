@@ -88,6 +88,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>魅惑の舞</string>
+			<key>shortcut</key>
+			<string>ありゅーるだんす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>魅惑の宮殿</string>
+			<key>shortcut</key>
+			<string>ありゅーるぱれす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>究極融合</string>
 			<key>shortcut</key>
 			<string>あるてぃめっとふゅーじょん</string>
@@ -115,6 +127,12 @@
 			<string>古代の機械</string>
 			<key>shortcut</key>
 			<string>あんてぃーくぎあ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>古代の機械像</string>
+			<key>shortcut</key>
+			<string>あんてぃーくぎあすたちゅー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -262,6 +280,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>魂を刻む右</string>
+			<key>shortcut</key>
+			<string>えんぐれいぶそうるらいと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>炎星</string>
 			<key>shortcut</key>
 			<string>えんせい</string>
@@ -376,6 +400,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>輝光竜</string>
+			<key>shortcut</key>
+			<string>きこうりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>希望皇</string>
 			<key>shortcut</key>
 			<string>きぼうおう</string>
@@ -439,6 +469,12 @@
 			<string>銀河眼の時空竜</string>
 			<key>shortcut</key>
 			<string>ぎゃらくしーあいずたきおんどらごん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>銀河眼の時源竜</string>
+			<key>shortcut</key>
+			<string>ぎゃらくしーあいずたきおんぷらいまる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -691,6 +727,12 @@
 			<string>降雷皇</string>
 			<key>shortcut</key>
 			<string>こうらいおう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>金色の魅惑の女王</string>
+			<key>shortcut</key>
+			<string>ごーるでんありゅーるくぃーん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1054,6 +1096,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>神影金龍</string>
+			<key>shortcut</key>
+			<string>しんえいきんりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>神炎皇</string>
 			<key>shortcut</key>
 			<string>しんえんおう</string>
@@ -1228,6 +1276,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>星雲龍</string>
+			<key>shortcut</key>
+			<string>せいうんりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>星界樹</string>
 			<key>shortcut</key>
 			<string>せいかいじゅ</string>
@@ -1291,6 +1345,18 @@
 			<string>七皇</string>
 			<key>shortcut</key>
 			<string>せぶんす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>七皇昇格</string>
+			<key>shortcut</key>
+			<string>せぶんすあせんしょん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>時空の七皇</string>
+			<key>shortcut</key>
+			<string>せぶんすたきおん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1399,6 +1465,12 @@
 			<string>時空混沌渦</string>
 			<key>shortcut</key>
 			<string>たきおんかおすほーる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>時空の雲篭</string>
+			<key>shortcut</key>
+			<string>たきおんくらうどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2614,6 +2686,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>無限竜</string>
+			<key>shortcut</key>
+			<string>むげんりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>無孔砲塔</string>
 			<key>shortcut</key>
 			<string>むこうほうとう</string>
@@ -2824,6 +2902,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>螺旋竜</string>
+			<key>shortcut</key>
+			<string>らせんりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>白銀の城</string>
 			<key>shortcut</key>
 			<string>らびゅりんす</string>
@@ -2845,6 +2929,12 @@
 			<string>六花</string>
 			<key>shortcut</key>
 			<string>りっか</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>龍影神</string>
+			<key>shortcut</key>
+			<string>りゅうえいしん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
