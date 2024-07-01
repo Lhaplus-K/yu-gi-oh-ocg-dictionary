@@ -12,9 +12,9 @@
 
 |IME|対応ファイル|
 |:--|:--|
-|Google日本語入力|`yugioh-dic.txt`|
+|Google日本語入力|`yugioh-dic_google.txt`|
 |MicrosoftIME|`yugioh-dic_microsoft.txt`|
-|Android版Gboard|`yugioh-dic.zip`|
+|Android版Gboard|`yugioh-dic_gboard.zip`|
 |macOS日本語入力 (ユーザ辞書)|`yugioh-dic_mac_user.plist`|
 |macOS日本語入力 (追加辞書)|`yugioh-dic_mac_add.txt`|
 
