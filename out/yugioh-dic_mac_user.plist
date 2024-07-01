@@ -2302,6 +2302,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>誇り</string>
+			<key>shortcut</key>
+			<string>ぷらいど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>誇りと魂の龍</string>
+			<key>shortcut</key>
+			<string>ぷらいどとたましいのどらごん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>伝説の黒石</string>
 			<key>shortcut</key>
 			<string>ぶらっくおぶれじぇんど</string>
@@ -2335,18 +2347,6 @@
 			<string>黒鋼竜</string>
 			<key>shortcut</key>
 			<string>ぶらっくめたるどらごん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>誇り</string>
-			<key>shortcut</key>
-			<string>ぷらいど</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>誇りと魂の龍</string>
-			<key>shortcut</key>
-			<string>ぷらいどとたましいのどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
