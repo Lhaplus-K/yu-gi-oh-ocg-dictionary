@@ -40,6 +40,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>夢幻転星</string>
+			<key>shortcut</key>
+			<string>あすとろいめあ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>魔救</string>
 			<key>shortcut</key>
 			<string>あだましあ</string>
@@ -922,6 +928,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>宵星の騎士</string>
+			<key>shortcut</key>
+			<string>じゃっくないつおるふぇごーる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>双穹の騎士</string>
+			<key>shortcut</key>
+			<string>じゃっくないつぱらでぃおん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>影依</string>
 			<key>shortcut</key>
 			<string>しゃどーる</string>
@@ -1447,6 +1465,12 @@
 			<string>魔玩具</string>
 			<key>shortcut</key>
 			<string>ですとーい</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>夢幻崩界</string>
+			<key>shortcut</key>
+			<string>ですとろいめあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
