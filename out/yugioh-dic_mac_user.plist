@@ -190,6 +190,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>石版</string>
+			<key>shortcut</key>
+			<string>うぇじゅ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>宵星の閃光</string>
+			<key>shortcut</key>
+			<string>ゔぇすぱーぎるす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>海</string>
 			<key>shortcut</key>
 			<string>うみ</string>
@@ -211,6 +223,12 @@
 			<string>U.A.</string>
 			<key>shortcut</key>
 			<string>うるとらあすりーと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>魔神火焔砲</string>
+			<key>shortcut</key>
+			<string>えぐぞーどぶれいず</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -307,6 +325,12 @@
 			<string>混沌</string>
 			<key>shortcut</key>
 			<string>かおす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>CX</string>
+			<key>shortcut</key>
+			<string>かおすえくしーず</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -652,6 +676,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>幻禄の天盃龍</string>
+			<key>shortcut</key>
+			<string>げんろくのてんぱいりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>剛鬼</string>
 			<key>shortcut</key>
 			<string>ごうき</string>
@@ -667,6 +697,12 @@
 			<string>GP</string>
 			<key>shortcut</key>
 			<string>ごーるどぷらいど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>五月豹</string>
+			<key>shortcut</key>
+			<string>ごがつびょう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -850,6 +886,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>燦幻開花</string>
+			<key>shortcut</key>
+			<string>さんげんかいほう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>雷龍</string>
 			<key>shortcut</key>
 			<string>さんだーどらごん</string>
@@ -997,6 +1039,12 @@
 			<string>不知火</string>
 			<key>shortcut</key>
 			<string>しらぬい</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>白き森</string>
+			<key>shortcut</key>
+			<string>しろきもり</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1180,6 +1228,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>星界樹</string>
+			<key>shortcut</key>
+			<string>せいかいじゅ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>聖騎士</string>
 			<key>shortcut</key>
 			<string>せいきし</string>
@@ -1288,6 +1342,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>竜騎士</string>
+			<key>shortcut</key>
+			<string>せんちゅりおん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>重騎兵エメトⅥ</string>
 			<key>shortcut</key>
 			<string>せんちゅりおんえめとぜくす</string>
@@ -1321,6 +1381,12 @@
 			<string>双天</string>
 			<key>shortcut</key>
 			<string>そうてん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>闇と消滅の竜</string>
+			<key>shortcut</key>
+			<string>だーくえんどいゔぁぽれいしょんどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1420,6 +1486,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>DPAジャンダムーア</string>
+			<key>shortcut</key>
+			<string>でぃーぴーえーじゃんだむーあ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>深淵の青眼龍</string>
 			<key>shortcut</key>
 			<string>でぃーぷおぶぶるーあいず</string>
@@ -1504,6 +1576,42 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>刻まれし魔</string>
+			<key>shortcut</key>
+			<string>でもんすみす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>刻まれし魔の楽園</string>
+			<key>shortcut</key>
+			<string>でもんすみすいんぱらでぃずむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>刻まれし魔の讃聖</string>
+			<key>shortcut</key>
+			<string>でもんすみすさんくとぅす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>刻まれし魔の大聖棺</string>
+			<key>shortcut</key>
+			<string>でもんすみすせくえんつぃあ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>刻まれし魔の詠聖</string>
+			<key>shortcut</key>
+			<string>でもんすみすとらくとぅす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>刻まれし魔の鎮魂棺</string>
+			<key>shortcut</key>
+			<string>でもんすみすれくいえむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>星騎士</string>
 			<key>shortcut</key>
 			<string>てらないと</string>
@@ -1576,6 +1684,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>聖王の粉砕</string>
+			<key>shortcut</key>
+			<string>どみなすぱーじ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>トライアングル－O</string>
 			<key>shortcut</key>
 			<string>とらいあんぐるおー</string>
@@ -1585,6 +1699,18 @@
 			<string>竜輝巧</string>
 			<key>shortcut</key>
 			<string>どらいとろん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>竜輝巧－νⅡ</string>
+			<key>shortcut</key>
+			<string>どらいとろんにゅーつー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>竜儀巧－メテオニス＝DAD</string>
+			<key>shortcut</key>
+			<string>どらいとろんめておにすでぃーえーでぃー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1771,6 +1897,12 @@
 			<string>騎甲虫</string>
 			<key>shortcut</key>
 			<string>びーとるーぱー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>BBS</string>
+			<key>shortcut</key>
+			<string>びーばっくさいと</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2110,6 +2242,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>誇り</string>
+			<key>shortcut</key>
+			<string>ぷらいど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>誇りと魂の龍</string>
+			<key>shortcut</key>
+			<string>ぷらいどとたましいのどらごん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>海造賊</string>
 			<key>shortcut</key>
 			<string>ぷらんどろーる</string>
@@ -2446,6 +2590,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>千年</string>
+			<key>shortcut</key>
+			<string>みれにあむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>千年の血族</string>
+			<key>shortcut</key>
+			<string>みれにあむしーかー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>月光</string>
 			<key>shortcut</key>
 			<string>むーんらいと</string>
@@ -2458,6 +2614,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>無孔砲塔</string>
+			<key>shortcut</key>
+			<string>むこうほうとう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>無孔砲塔－ディセイブラスター</string>
+			<key>shortcut</key>
+			<string>むこうほうとうでぃせいぶらすたー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>六世壊</string>
 			<key>shortcut</key>
 			<string>むせかい</string>
@@ -2467,6 +2635,18 @@
 			<string>溟界</string>
 			<key>shortcut</key>
 			<string>めいかい</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>冥骸王</string>
+			<key>shortcut</key>
+			<string>めいがいおう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>冥骸王－メメントラン・テクトリカ</string>
+			<key>shortcut</key>
+			<string>めいがいおうめめんとらんてくとりか</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2485,6 +2665,18 @@
 			<string>錬装</string>
 			<key>shortcut</key>
 			<string>めたるふぉーぜ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>流星極輝巧群</string>
+			<key>shortcut</key>
+			<string>めておろーらどらいとろん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>面子蝙蝠</string>
+			<key>shortcut</key>
+			<string>めんこうもり</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2587,6 +2779,30 @@
 			<string>蕾禍</string>
 			<key>shortcut</key>
 			<string>らいか</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>蕾禍ノ玄神憑月</string>
+			<key>shortcut</key>
+			<string>らいかのくろかみつき</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>蕾禍ノ姫邪眼</string>
+			<key>shortcut</key>
+			<string>らいかのひめじゃのめ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>光と闇の竜王</string>
+			<key>shortcut</key>
+			<string>らいとあんどだーくねすどらごんろーど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>光と昇華の竜</string>
+			<key>shortcut</key>
+			<string>らいとえんどさぷりめいしょんどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
