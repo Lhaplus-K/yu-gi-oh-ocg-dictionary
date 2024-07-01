@@ -38,9 +38,10 @@ def load_data_frame(filepath: str) -> DataFrame:
 def generate():
   file_base_path = path.join(OUT_DIR, OUT_FILE_NAME)
   df = load_data_frame(READ_CSV_PATH)
-  df.to_csv(path_or_buf=f'{file_base_path}_{SUFFIX_UTF8}{EXT_TEXT}', sep='\t', header=False, index=False, encoding='utf-8')
+  filename_utf8 = f'{file_base_path}_{SUFFIX_UTF8}{EXT_TEXT}'
+  df.to_csv(path_or_buf=filename_utf8, sep='\t', header=False, index=False, encoding='utf-8')
   with zipfile.ZipFile(file=f'{file_base_path}_{SUFFIX_ZIP}{EXT_ZIP}', mode='w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
-    zf.write(filename=f'{file_base_path}{EXT_TEXT}', arcname=f'{OUT_FILE_NAME}{EXT_TEXT}')
+    zf.write(filename=filename_utf8, arcname=f'{OUT_FILE_NAME}{EXT_TEXT}')
   generate_for_utf16le(df, file_base_path)
   generate_for_mac(df, file_base_path)
   generate_for_plist(df, file_base_path)
