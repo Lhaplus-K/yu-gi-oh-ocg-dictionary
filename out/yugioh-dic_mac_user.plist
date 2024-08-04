@@ -406,6 +406,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>淵巴</string>
+			<key>shortcut</key>
+			<string>えんば</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>琰魔竜</string>
 			<key>shortcut</key>
 			<string>えんまりゅう</string>
@@ -469,6 +475,12 @@
 			<string>回猫</string>
 			<key>shortcut</key>
 			<string>かいねこ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>㟴巴</string>
+			<key>shortcut</key>
+			<string>かいば</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1846,6 +1858,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>創星</string>
+			<key>shortcut</key>
+			<string>そうせい</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>創星竜華</string>
 			<key>shortcut</key>
 			<string>そうせいりゅうげ</string>
@@ -2455,6 +2473,12 @@
 			<string>墓守</string>
 			<key>shortcut</key>
 			<string>はかもり</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>覇巴</string>
+			<key>shortcut</key>
+			<string>はくば</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -3253,6 +3277,12 @@
 			<string>霞の谷</string>
 			<key>shortcut</key>
 			<string>みすとばれー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>光巴</string>
+			<key>shortcut</key>
+			<string>みつば</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
