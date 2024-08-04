@@ -16,6 +16,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>アイス・ライゼオル</string>
+			<key>shortcut</key>
+			<string>あいすらいぜおる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>青き眼の祈り</string>
+			<key>shortcut</key>
+			<string>あおきめのいのり</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>赤き竜</string>
 			<key>shortcut</key>
 			<string>あかきりゅう</string>
@@ -322,6 +334,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>エクス・ライゼオル</string>
+			<key>shortcut</key>
+			<string>えくすらいぜおる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>魔神火焔砲</string>
 			<key>shortcut</key>
 			<string>えぐぞーどぶれいず</string>
@@ -451,6 +469,24 @@
 			<string>回猫</string>
 			<key>shortcut</key>
 			<string>かいねこ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>海瀧</string>
+			<key>shortcut</key>
+			<string>かいろう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>海瀧竜華</string>
+			<key>shortcut</key>
+			<string>かいろうりゅうげ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>海瀧竜華－淵巴</string>
+			<key>shortcut</key>
+			<string>かいろうりゅうげえんば</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -712,6 +748,24 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>恐巄</string>
+			<key>shortcut</key>
+			<string>きょうろう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>恐巄竜華</string>
+			<key>shortcut</key>
+			<string>きょうろうりゅうげ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>恐巄竜華－㟴巴</string>
+			<key>shortcut</key>
+			<string>きょうろうりゅうげかいば</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>極星</string>
 			<key>shortcut</key>
 			<string>きょくせい</string>
@@ -907,6 +961,24 @@
 			<string>玄翼竜</string>
 			<key>shortcut</key>
 			<string>げんよくりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>幻朧</string>
+			<key>shortcut</key>
+			<string>げんろう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>幻朧竜華</string>
+			<key>shortcut</key>
+			<string>げんろうりゅうげ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>幻朧竜華－覇巴</string>
+			<key>shortcut</key>
+			<string>げんろうりゅうげはくば</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1324,6 +1396,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>白き乙女</string>
+			<key>shortcut</key>
+			<string>しろきおとめ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>白き森</string>
 			<key>shortcut</key>
 			<string>しろきもり</string>
@@ -1558,6 +1636,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>青眼龍轟臨</string>
+			<key>shortcut</key>
+			<string>せいがんりゅうごうりん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>聖騎士</string>
 			<key>shortcut</key>
 			<string>せいきし</string>
@@ -1573,6 +1657,12 @@
 			<string>聖刻</string>
 			<key>shortcut</key>
 			<string>せいこく</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>星神器</string>
+			<key>shortcut</key>
+			<string>せいじんぎ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1738,6 +1828,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>蒼眼の銀龍</string>
+			<key>shortcut</key>
+			<string>そうがんのぎんりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>相剣</string>
 			<key>shortcut</key>
 			<string>そうけん</string>
@@ -1747,6 +1843,24 @@
 			<string>双天</string>
 			<key>shortcut</key>
 			<string>そうてん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>創星竜華</string>
+			<key>shortcut</key>
+			<string>そうせいりゅうげ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>創星竜華－光巴</string>
+			<key>shortcut</key>
+			<string>そうせいりゅうげみつば</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ソード・ライゼオル</string>
+			<key>shortcut</key>
+			<string>そーどらいぜおる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1807,6 +1921,12 @@
 			<string>超越竜</string>
 			<key>shortcut</key>
 			<string>ちょうえつりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>超次元ロボ</string>
+			<key>shortcut</key>
+			<string>ちょうじげんろぼ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2080,6 +2200,30 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>登竜華海瀧門</string>
+			<key>shortcut</key>
+			<string>とうりゅうげかいろうもん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>登竜華恐巄門</string>
+			<key>shortcut</key>
+			<string>とうりゅうげきょうろうもん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>登竜華幻朧門</string>
+			<key>shortcut</key>
+			<string>とうりゅうげげんろうもん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>登竜華転生紋</string>
+			<key>shortcut</key>
+			<string>とうりゅうげてんせいもん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>時の機械－タイム・エンジン</string>
 			<key>shortcut</key>
 			<string>ときのきかいたいむえんじん</string>
@@ -2161,6 +2305,12 @@
 			<string>古代遺跡</string>
 			<key>shortcut</key>
 			<string>とらみっど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>竜巻竜</string>
+			<key>shortcut</key>
+			<string>とるねーどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2260,6 +2410,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>ノード・ライゼオル</string>
+			<key>shortcut</key>
+			<string>のーどらいぜおる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>爆裂疾風弾</string>
 			<key>shortcut</key>
 			<string>ばーすとすとりーむ</string>
@@ -2311,6 +2467,12 @@
 			<string>春化精</string>
 			<key>shortcut</key>
 			<string>はるけしょう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>パルマ・ライゼオル</string>
+			<key>shortcut</key>
+			<string>ぱるまらいぜおる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2728,6 +2890,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>惑星探査車</string>
+			<key>shortcut</key>
+			<string>ぷらねっとぱすふぁいんだー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>海造賊</string>
 			<key>shortcut</key>
 			<string>ぷらんどろーる</string>
@@ -2767,6 +2935,12 @@
 			<string>青眼の光龍</string>
 			<key>shortcut</key>
 			<string>ぶるーあいずしゃいにんぐどらごん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>青眼の究極霊竜</string>
+			<key>shortcut</key>
+			<string>ぶるーあいずすぴりっとあるてぃめっとどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -3340,6 +3514,36 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>ライゼオル</string>
+			<key>shortcut</key>
+			<string>らいぜおる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ライゼオル・デッドネーダー</string>
+			<key>shortcut</key>
+			<string>らいぜおるでっどねーだー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ライゼオル・デュオドライブ</string>
+			<key>shortcut</key>
+			<string>らいぜおるでゅおどらいぶ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ライゼオル・プラグイン</string>
+			<key>shortcut</key>
+			<string>らいぜおるぷらぐいん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ライゼオル・ホールスラスター</string>
+			<key>shortcut</key>
+			<string>らいぜおるほーるすらすたー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>Live☆Twin</string>
 			<key>shortcut</key>
 			<string>らいぶついん</string>
@@ -3403,6 +3607,18 @@
 			<string>竜剣士</string>
 			<key>shortcut</key>
 			<string>りゅうけんし</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>竜華</string>
+			<key>shortcut</key>
+			<string>りゅうげ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>竜華開闢</string>
+			<key>shortcut</key>
+			<string>りゅうげかいびゃく</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
