@@ -22,9 +22,21 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>青き眼</string>
+			<key>shortcut</key>
+			<string>あおきめ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>青き眼の祈り</string>
 			<key>shortcut</key>
 			<string>あおきめのいのり</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>青き眼の精霊</string>
+			<key>shortcut</key>
+			<string>あおきめのせいれい</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1420,6 +1432,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>白き龍の威光</string>
+			<key>shortcut</key>
+			<string>しろきりゅうのいこう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>死を謳う魔瞳</string>
 			<key>shortcut</key>
 			<string>しをうたうもるがないと</string>
@@ -2371,6 +2389,12 @@
 			<string>忍者</string>
 			<key>shortcut</key>
 			<string>にんじゃ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ネオ・カイザー・シーホース</string>
+			<key>shortcut</key>
+			<string>ねおかいざーしーほーす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
