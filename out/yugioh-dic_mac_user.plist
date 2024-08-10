@@ -1060,6 +1060,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>孤高除獣</string>
+			<key>shortcut</key>
+			<string>ここうのけもの</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>心宿りし青眼竜</string>
 			<key>shortcut</key>
 			<string>こころやどりしぶるーあいず</string>
@@ -1954,6 +1960,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>Cheshire Cat</string>
+			<key>shortcut</key>
+			<string>ちぇしゃきゃっと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>超越竜</string>
 			<key>shortcut</key>
 			<string>ちょうえつりゅう</string>
@@ -2260,6 +2272,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>Dormouse</string>
+			<key>shortcut</key>
+			<string>どーまうす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>時の機械－タイム・エンジン</string>
 			<key>shortcut</key>
 			<string>ときのきかいたいむえんじん</string>
@@ -2461,6 +2479,12 @@
 			<string>爆裂疾風弾</string>
 			<key>shortcut</key>
 			<string>ばーすとすとりーむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>HEARTS OF CRYPTER</string>
+			<key>shortcut</key>
+			<string>はーつおぶくりぷたー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -3082,6 +3106,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>White Rabbit</string>
+			<key>shortcut</key>
+			<string>ほわいとらびっと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>The tripping MERCURY</string>
 			<key>shortcut</key>
 			<string>まーきゅりー</string>
@@ -3271,6 +3301,84 @@
 			<string>魔妖</string>
 			<key>shortcut</key>
 			<string>まやかし</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE</string>
+			<key>shortcut</key>
+			<string>まりす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE IN UNDERGROUND</string>
+			<key>shortcut</key>
+			<string>まりすいんあんだーぐらうんど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜Q＞</string>
+			<key>shortcut</key>
+			<string>まりすくいーん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜Q＞HEARTS OF CRYPTER</string>
+			<key>shortcut</key>
+			<string>まりすくいーんはーつおぶくりぷたー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜Q＞RED RANSOM</string>
+			<key>shortcut</key>
+			<string>まりすくいーんれっどらんさむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜C＞</string>
+			<key>shortcut</key>
+			<string>まりすこーど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜C＞GWC－06</string>
+			<key>shortcut</key>
+			<string>まりすこーどgwc06</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜C＞MTP－07</string>
+			<key>shortcut</key>
+			<string>まりすこーどmtp07</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜C＞TB－11</string>
+			<key>shortcut</key>
+			<string>まりすこーどtb11</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜P＞</string>
+			<key>shortcut</key>
+			<string>まりすぽーん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜P＞Cheshire Cat</string>
+			<key>shortcut</key>
+			<string>まりすぽーんちぇしゃきゃっと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜P＞Dormouse</string>
+			<key>shortcut</key>
+			<string>まりすぽーんどーまうす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜P＞White Rabbit</string>
+			<key>shortcut</key>
+			<string>まりすぽーんほわいとらびっと</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -3574,6 +3682,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>ライゼオル・クロス</string>
+			<key>shortcut</key>
+			<string>らいぜおるくろす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>ライゼオル・デッドネーダー</string>
 			<key>shortcut</key>
 			<string>らいぜおるでっどねーだー</string>
@@ -3865,6 +3979,12 @@
 			<string>真紅眼の飛竜</string>
 			<key>shortcut</key>
 			<string>れっどあいずわいばーん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>RED RANSOM</string>
+			<key>shortcut</key>
+			<string>れっどらんさむ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
