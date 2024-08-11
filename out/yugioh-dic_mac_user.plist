@@ -1840,6 +1840,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>重騎兵</string>
+			<key>shortcut</key>
+			<string>せんちゅりおん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>従騎士</string>
+			<key>shortcut</key>
+			<string>せんちゅりおん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>影騎士</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
@@ -1865,18 +1877,6 @@
 		<dict>
 			<key>phrase</key>
 			<string>重騎士</string>
-			<key>shortcut</key>
-			<string>せんちゅりおん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>従騎士</string>
-			<key>shortcut</key>
-			<string>せんちゅりおん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>重騎兵</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
 		</dict>
@@ -2170,6 +2170,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>星守の騎士</string>
+			<key>shortcut</key>
+			<string>てらないと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>煉獄の騎士</string>
 			<key>shortcut</key>
 			<string>てらないと</string>
@@ -2177,12 +2183,6 @@
 		<dict>
 			<key>phrase</key>
 			<string>星騎士</string>
-			<key>shortcut</key>
-			<string>てらないと</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>星守の騎士</string>
 			<key>shortcut</key>
 			<string>てらないと</string>
 		</dict>
@@ -2428,13 +2428,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>聖王</string>
+			<string>霊王</string>
 			<key>shortcut</key>
 			<string>どみなす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>霊王</string>
+			<string>聖王</string>
 			<key>shortcut</key>
 			<string>どみなす</string>
 		</dict>
@@ -2470,13 +2470,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>凶導</string>
+			<string>教導</string>
 			<key>shortcut</key>
 			<string>どらぐま</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>教導</string>
+			<string>凶導</string>
 			<key>shortcut</key>
 			<string>どらぐま</string>
 		</dict>
@@ -2638,9 +2638,21 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>滅亡き</string>
+			<key>shortcut</key>
+			<string>はてなき</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>果てなき灰滅</string>
 			<key>shortcut</key>
 			<string>はてなきかいめつ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>滅亡き闇</string>
+			<key>shortcut</key>
+			<string>はてなきやみ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -3286,19 +3298,7 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>精霊</string>
-			<key>shortcut</key>
-			<string>まぎすとす</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>聖魔</string>
-			<key>shortcut</key>
-			<string>まぎすとす</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>絶火</string>
+			<string>結晶</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
@@ -3310,7 +3310,19 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>結晶</string>
+			<string>聖魔</string>
+			<key>shortcut</key>
+			<string>まぎすとす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>精霊</string>
+			<key>shortcut</key>
+			<string>まぎすとす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>絶火</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
@@ -3766,13 +3778,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ユベル－Das Extremer Traurig Drachen</string>
+			<string>ユベル－Das Ewig Liebe Wächter</string>
 			<key>shortcut</key>
 			<string>ゆべる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ユベル－Das Ewig Liebe Wächter</string>
+			<string>ユベル－Das Extremer Traurig Drachen</string>
 			<key>shortcut</key>
 			<string>ゆべる</string>
 		</dict>
@@ -4264,13 +4276,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>滅亡き闇 ヴェイドス</string>
+			<string>滅亡龍 ヴェイドス</string>
 			<key>shortcut</key>
 			<string>ゔぇいどす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>滅亡龍 ヴェイドス</string>
+			<string>滅亡き闇 ヴェイドス</string>
 			<key>shortcut</key>
 			<string>ゔぇいどす</string>
 		</dict>
