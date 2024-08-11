@@ -45,6 +45,7 @@ def generate():
     df_list.append(file_df)
   df = pandas.concat(df_list, ignore_index=True)
   df = df.drop_duplicates()
+  df = df.sort_values('Reading', ascending=True)
   filename_utf8 = f'{file_base_path}_{SUFFIX_UTF8}{EXT_TEXT}'
   df.to_csv(path_or_buf=filename_utf8, sep='\t', header=False, index=False, encoding='utf-8')
   with zipfile.ZipFile(file=f'{file_base_path}_{SUFFIX_ZIP}{EXT_ZIP}', mode='w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
