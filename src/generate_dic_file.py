@@ -1,3 +1,4 @@
+import glob
 import pandas
 import xml.etree.ElementTree as ET
 import zipfile
@@ -5,7 +6,7 @@ from os import path
 from pandas import DataFrame
 from pandera import Column, DataFrameSchema, Index
 
-READ_CSV_PATH = 'in/yugioh-dic.csv'
+READ_CSV_PATH = 'in/*.csv'
 OUT_DIR = 'out/'
 OUT_FILE_NAME = 'yugioh-dic'
 EXT_PLIST = '.plist'
@@ -37,7 +38,13 @@ def load_data_frame(filepath: str) -> DataFrame:
 
 def generate():
   file_base_path = path.join(OUT_DIR, OUT_FILE_NAME)
-  df = load_data_frame(READ_CSV_PATH)
+  files = glob.glob(READ_CSV_PATH)
+  df_list = []
+  for file in files:
+    file_df = load_data_frame(file)
+    df_list.append(file_df)
+  df = pandas.concat(df_list, ignore_index=True)
+  df = df.drop_duplicates()
   filename_utf8 = f'{file_base_path}_{SUFFIX_UTF8}{EXT_TEXT}'
   df.to_csv(path_or_buf=filename_utf8, sep='\t', header=False, index=False, encoding='utf-8')
   with zipfile.ZipFile(file=f'{file_base_path}_{SUFFIX_ZIP}{EXT_ZIP}', mode='w', compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
