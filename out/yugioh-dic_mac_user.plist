@@ -400,6 +400,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>灰滅の都 オブシディム</string>
+			<key>shortcut</key>
+			<string>おぶしでぃむ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>終わりなき灰滅</string>
+			<key>shortcut</key>
+			<string>おわりなきかいめつ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>先史遺産</string>
 			<key>shortcut</key>
 			<string>おーぱーつ</string>
@@ -445,6 +457,78 @@
 			<string>㟴巴</string>
 			<key>shortcut</key>
 			<string>かいば</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅</string>
+			<key>shortcut</key>
+			<string>かいめつ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅せし</string>
+			<key>shortcut</key>
+			<string>かいめつせし</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅せし成れの果て</string>
+			<key>shortcut</key>
+			<string>かいめつせしなれのはて</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅せし都の英雄</string>
+			<key>shortcut</key>
+			<string>かいめつせしみやこのえいゆう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅せし都の王</string>
+			<key>shortcut</key>
+			<string>かいめつせしみやこのおう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅せし都の先懸</string>
+			<key>shortcut</key>
+			<string>かいめつせしみやこのさきがけ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅せし都の呪術師</string>
+			<key>shortcut</key>
+			<string>かいめつせしみやこのじゅじゅつし</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅せし都の巫女</string>
+			<key>shortcut</key>
+			<string>かいめつせしみやこのみこ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅の復燃</string>
+			<key>shortcut</key>
+			<string>かいめつのふくねん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅の憤怒</string>
+			<key>shortcut</key>
+			<string>かいめつのふんど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅の都</string>
+			<key>shortcut</key>
+			<string>かいめつのみやこ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>灰滅の都 オブシディム</string>
+			<key>shortcut</key>
+			<string>かいめつのみやこおぶしでぃむ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -847,6 +931,12 @@
 			<string>軍貫</string>
 			<key>shortcut</key>
 			<string>ぐんかん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>結晶神ティスティナ</string>
+			<key>shortcut</key>
+			<string>けっしょうしんてぃすてぃな</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1330,6 +1420,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>神域 バ＝ティスティナ</string>
+			<key>shortcut</key>
+			<string>しんいきばてぃすてぃな</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>神影金龍</string>
 			<key>shortcut</key>
 			<string>しんえいきんりゅう</string>
@@ -1552,13 +1648,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>SPYRAL</string>
+			<string>螺旋</string>
 			<key>shortcut</key>
 			<string>すぱいらる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>螺旋</string>
+			<string>SPYRAL</string>
 			<key>shortcut</key>
 			<string>すぱいらる</string>
 		</dict>
@@ -1750,12 +1846,6 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>重騎兵</string>
-			<key>shortcut</key>
-			<string>せんちゅりおん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>竜騎士</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
@@ -1768,19 +1858,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>重騎士</string>
-			<key>shortcut</key>
-			<string>せんちゅりおん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>騎士皇</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>重騎士</string>
+			<key>shortcut</key>
+			<string>せんちゅりおん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>従騎士</string>
+			<key>shortcut</key>
+			<string>せんちゅりおん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>重騎兵</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
 		</dict>
@@ -1990,6 +2086,78 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>ティスティナ</string>
+			<key>shortcut</key>
+			<string>てぃすてぃな</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの息吹</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのいぶき</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの落とし仔</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのおとしご</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの還り仔</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのかえりご</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの瘴神</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのしょうしん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの胎動</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのたいどう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの戯れ</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのたわむれ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの半神</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのはんしん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの変晶</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのへんしょう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの抱擁</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのほうよう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの歩哨</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのほしょう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ティスティナの猟犬</string>
+			<key>shortcut</key>
+			<string>てぃすてぃなのりょうけん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>帝王</string>
 			<key>shortcut</key>
 			<string>ていおう</string>
@@ -2008,13 +2176,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>星守の騎士</string>
+			<string>星騎士</string>
 			<key>shortcut</key>
 			<string>てらないと</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>星騎士</string>
+			<string>星守の騎士</string>
 			<key>shortcut</key>
 			<string>てらないと</string>
 		</dict>
@@ -2260,13 +2428,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>霊王</string>
+			<string>聖王</string>
 			<key>shortcut</key>
 			<string>どみなす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>聖王</string>
+			<string>霊王</string>
 			<key>shortcut</key>
 			<string>どみなす</string>
 		</dict>
@@ -2302,13 +2470,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>教導</string>
+			<string>凶導</string>
 			<key>shortcut</key>
 			<string>どらぐま</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>凶導</string>
+			<string>教導</string>
 			<key>shortcut</key>
 			<string>どらぐま</string>
 		</dict>
@@ -2470,6 +2638,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>果てなき灰滅</string>
+			<key>shortcut</key>
+			<string>はてなきかいめつ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>滅亡き闇 ヴェイドス</string>
+			<key>shortcut</key>
+			<string>はてなきやみゔぇいどす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>春化精</string>
 			<key>shortcut</key>
 			<string>はるけしょう</string>
@@ -2485,6 +2665,18 @@
 			<string>天上天下百鬼羅刹</string>
 			<key>shortcut</key>
 			<string>ばっどあすごぶりんらいだーず</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>バ＝ティスティナ</string>
+			<key>shortcut</key>
+			<string>ばてぃすてぃな</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>神域 バ＝ティスティナ</string>
+			<key>shortcut</key>
+			<string>ばてぃすてぃな</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -2842,6 +3034,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>復燃</string>
+			<key>shortcut</key>
+			<string>ふくねん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>融合</string>
 			<key>shortcut</key>
 			<string>ふゅーじょん</string>
@@ -3088,7 +3286,7 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>法典</string>
+			<string>精霊</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
@@ -3106,13 +3304,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>結晶</string>
+			<string>法典</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>精霊</string>
+			<string>結晶</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
@@ -3424,6 +3622,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>神蝕む光</string>
+			<key>shortcut</key>
+			<string>むしばむひかり</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>神蝕む光 ティスティナ</string>
+			<key>shortcut</key>
+			<string>むしばむひかりてぃすてぃな</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>六世壊</string>
 			<key>shortcut</key>
 			<string>むせかい</string>
@@ -3484,6 +3694,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>滅亡龍</string>
+			<key>shortcut</key>
+			<string>めつぼうりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>滅亡龍 ヴェイドス</string>
+			<key>shortcut</key>
+			<string>めつぼうりゅうゔぇいどす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>流星極輝巧群</string>
 			<key>shortcut</key>
 			<string>めておろーらどらいとろん</string>
@@ -3532,13 +3754,7 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ユベル－Das Extremer Traurig Drachen</string>
-			<key>shortcut</key>
-			<string>ゆべる</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>ユベル－Das Ewig Liebe Wächter</string>
+			<string>ユベル</string>
 			<key>shortcut</key>
 			<string>ゆべる</string>
 		</dict>
@@ -3550,7 +3766,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ユベル</string>
+			<string>ユベル－Das Extremer Traurig Drachen</string>
+			<key>shortcut</key>
+			<string>ゆべる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ユベル－Das Ewig Liebe Wächter</string>
 			<key>shortcut</key>
 			<string>ゆべる</string>
 		</dict>
@@ -4039,6 +4261,30 @@
 			<string>The splendid VENUS</string>
 			<key>shortcut</key>
 			<string>ゔぃーなす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>滅亡き闇 ヴェイドス</string>
+			<key>shortcut</key>
+			<string>ゔぇいどす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>滅亡龍 ヴェイドス</string>
+			<key>shortcut</key>
+			<string>ゔぇいどす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ヴェイドス</string>
+			<key>shortcut</key>
+			<string>ゔぇいどす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ヴェイドスの目覚め</string>
+			<key>shortcut</key>
+			<string>ゔぇいどすのめざめ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
