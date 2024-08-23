@@ -61,7 +61,7 @@ def generate_for_mac(data_frame: DataFrame, file_base_path: str):
   df.to_csv(path_or_buf=f'{file_base_path}_{SUFFIX_MAC}{EXT_TEXT}', sep=',', header=False, index=False, encoding='utf-8')
 
 def generate_for_utf16le(data_frame: DataFrame, file_base_path: str):
-  df = data_frame
+  df = data_frame.replace('ゔ', 'ヴ', regex=True)
   df.to_csv(path_or_buf=f'{file_base_path}_{SUFFIX_UTF16LE}{EXT_TEXT}', sep='\t', header=False, index=False, encoding='utf-16')
 
 def generate_for_plist(data_frame: DataFrame, file_base_path: str):
