@@ -58,6 +58,7 @@ def generate_for_mac(data_frame: DataFrame, file_base_path: str):
   df = data_frame
   df = df.replace('固有名詞', 'その他の固有名詞')
   df = df.replace('短縮よみ', 'その他の固有名詞')
+  df = df.replace('サジェストのみ', 'その他の固有名詞')
   df.to_csv(path_or_buf=f'{file_base_path}_{SUFFIX_MAC}{EXT_TEXT}', sep=',', header=False, index=False, encoding='utf-8')
 
 def generate_for_utf16le(data_frame: DataFrame, file_base_path: str):
