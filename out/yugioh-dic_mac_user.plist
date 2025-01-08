@@ -592,13 +592,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>アークシーラ</string>
+			<string>騎士皇アークシーラ</string>
 			<key>shortcut</key>
 			<string>あーくしーら</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>騎士皇アークシーラ</string>
+			<string>アークシーラ</string>
 			<key>shortcut</key>
 			<string>あーくしーら</string>
 		</dict>
@@ -718,13 +718,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>インペリアル・ドラゴン</string>
+			<string>原石竜インペリアル・ドラゴン</string>
 			<key>shortcut</key>
 			<string>いんぺりあるどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>原石竜インペリアル・ドラゴン</string>
+			<string>インペリアル・ドラゴン</string>
 			<key>shortcut</key>
 			<string>いんぺりあるどらごん</string>
 		</dict>
@@ -856,13 +856,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神ウルストス</string>
+			<string>ウルストス</string>
 			<key>shortcut</key>
 			<string>うるすとす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ウルストス</string>
+			<string>魔轟神ウルストス</string>
 			<key>shortcut</key>
 			<string>うるすとす</string>
 		</dict>
@@ -946,13 +946,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>エクレプシス</string>
+			<string>凶征竜－エクレプシス</string>
 			<key>shortcut</key>
 			<string>えくれぷしす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>凶征竜－エクレプシス</string>
+			<string>エクレプシス</string>
 			<key>shortcut</key>
 			<string>えくれぷしす</string>
 		</dict>
@@ -1006,13 +1006,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>エミリア</string>
+			<string>影霊衣の舞巫女 エミリア</string>
 			<key>shortcut</key>
 			<string>えみりあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>影霊衣の舞巫女 エミリア</string>
+			<string>エミリア</string>
 			<key>shortcut</key>
 			<string>えみりあ</string>
 		</dict>
@@ -1090,13 +1090,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>焔征竜</string>
+			<string>炎征竜</string>
 			<key>shortcut</key>
 			<string>えんせいりゅう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>炎征竜</string>
+			<string>焔征竜</string>
 			<key>shortcut</key>
 			<string>えんせいりゅう</string>
 		</dict>
@@ -1138,13 +1138,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>淵巴</string>
+			<string>海瀧竜華－淵巴</string>
 			<key>shortcut</key>
 			<string>えんば</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>海瀧竜華－淵巴</string>
+			<string>淵巴</string>
 			<key>shortcut</key>
 			<string>えんば</string>
 		</dict>
@@ -1165,6 +1165,18 @@
 			<string>琰魔竜王</string>
 			<key>shortcut</key>
 			<string>えんまりゅうおう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>エンリルギルス</string>
+			<key>shortcut</key>
+			<string>えんりるぎるす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>宵星の騎士エンリルギルス</string>
+			<key>shortcut</key>
+			<string>えんりるぎるす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1222,13 +1234,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>アザミナ・オフェイレーテス</string>
+			<string>オフェイレーテス</string>
 			<key>shortcut</key>
 			<string>おふぇいれーてす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>オフェイレーテス</string>
+			<string>アザミナ・オフェイレーテス</string>
 			<key>shortcut</key>
 			<string>おふぇいれーてす</string>
 		</dict>
@@ -1249,6 +1261,18 @@
 			<string>オルトロ</string>
 			<key>shortcut</key>
 			<string>おるとろ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>オルフェゴール</string>
+			<key>shortcut</key>
+			<string>おるふぇごーる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>オルフェゴール・ガラテアi</string>
+			<key>shortcut</key>
+			<string>おるふぇごーるがらてああい</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1582,13 +1606,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の鏡</string>
+			<string>鏡</string>
 			<key>shortcut</key>
 			<string>かがみ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>鏡</string>
+			<string>氷結界の鏡</string>
 			<key>shortcut</key>
 			<string>かがみ</string>
 		</dict>
@@ -1648,13 +1672,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ガナシア</string>
+			<string>魔轟神獣ガナシア</string>
 			<key>shortcut</key>
 			<string>がなしあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神獣ガナシア</string>
+			<string>ガナシア</string>
 			<key>shortcut</key>
 			<string>がなしあ</string>
 		</dict>
@@ -1669,6 +1693,18 @@
 			<string>ガミュジン</string>
 			<key>shortcut</key>
 			<string>がみゅじん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>オルフェゴール・ガラテアi</string>
+			<key>shortcut</key>
+			<string>がらてああい</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ガラテアi</string>
+			<key>shortcut</key>
+			<string>がらてああい</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1696,25 +1732,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ガンターラ</string>
-			<key>shortcut</key>
-			<string>がんたーら</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>氷結界の虎将 ガンターラ</string>
 			<key>shortcut</key>
 			<string>がんたーら</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>竜騎兵ガーゴイルⅡ</string>
+			<string>ガンターラ</string>
+			<key>shortcut</key>
+			<string>がんたーら</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ガーゴイルⅡ</string>
 			<key>shortcut</key>
 			<string>がーごいるつゔぁい</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ガーゴイルⅡ</string>
+			<string>竜騎兵ガーゴイルⅡ</string>
 			<key>shortcut</key>
 			<string>がーごいるつゔぁい</string>
 		</dict>
@@ -1762,21 +1798,15 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神界の階</string>
-			<key>shortcut</key>
-			<string>きざはし</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>階</string>
 			<key>shortcut</key>
 			<string>きざはし</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>百鬼羅刹唯我独尊</string>
+			<string>魔轟神界の階</string>
 			<key>shortcut</key>
-			<string>きっくあす</string>
+			<string>きざはし</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -1788,17 +1818,23 @@
 			<key>phrase</key>
 			<string>百鬼羅刹唯我独尊</string>
 			<key>shortcut</key>
+			<string>きっくあす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>百鬼羅刹唯我独尊</string>
+			<key>shortcut</key>
 			<string>きっくあすごぶりんらいだーず</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>希望皇</string>
+			<string>冀望皇</string>
 			<key>shortcut</key>
 			<string>きぼうおう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>冀望皇</string>
+			<string>希望皇</string>
 			<key>shortcut</key>
 			<string>きぼうおう</string>
 		</dict>
@@ -1924,25 +1960,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神獣キャシー</string>
-			<key>shortcut</key>
-			<string>きゃしー</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>キャシー</string>
 			<key>shortcut</key>
 			<string>きゃしー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>強化反射装甲</string>
+			<string>魔轟神獣キャシー</string>
+			<key>shortcut</key>
+			<string>きゃしー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>メタル化・強化反射装甲</string>
 			<key>shortcut</key>
 			<string>きょうかはんしゃそうこう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>メタル化・強化反射装甲</string>
+			<string>強化反射装甲</string>
 			<key>shortcut</key>
 			<string>きょうかはんしゃそうこう</string>
 		</dict>
@@ -2068,13 +2104,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>憐歌</string>
+			<string>刻まれし魔の憐歌</string>
 			<key>shortcut</key>
 			<string>きりえ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>刻まれし魔の憐歌</string>
+			<string>憐歌</string>
 			<key>shortcut</key>
 			<string>きりえ</string>
 		</dict>
@@ -2248,13 +2284,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>銀河眼の時空竜</string>
+			<string>No.107 銀河眼の時空竜</string>
 			<key>shortcut</key>
 			<string>ぎゃらくしーあいずたきおんどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>No.107 銀河眼の時空竜</string>
+			<string>銀河眼の時空竜</string>
 			<key>shortcut</key>
 			<string>ぎゃらくしーあいずたきおんどらごん</string>
 		</dict>
@@ -2482,13 +2518,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神獣クダベ</string>
+			<string>クダベ</string>
 			<key>shortcut</key>
 			<string>くだべ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>クダベ</string>
+			<string>魔轟神獣クダベ</string>
 			<key>shortcut</key>
 			<string>くだべ</string>
 		</dict>
@@ -2500,13 +2536,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>剣闘獣クラウディウス</string>
+			<string>クラウディウス</string>
 			<key>shortcut</key>
 			<string>くらうでぃうす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>クラウディウス</string>
+			<string>剣闘獣クラウディウス</string>
 			<key>shortcut</key>
 			<string>くらうでぃうす</string>
 		</dict>
@@ -2608,13 +2644,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>原質の臨界超過</string>
+			<string>臨界超過</string>
 			<key>shortcut</key>
 			<string>くりてぃかる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>臨界超過</string>
+			<string>原質の臨界超過</string>
 			<key>shortcut</key>
 			<string>くりてぃかる</string>
 		</dict>
@@ -2638,13 +2674,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>クルス</string>
+			<string>魔轟神クルス</string>
 			<key>shortcut</key>
 			<string>くるす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神クルス</string>
+			<string>クルス</string>
 			<key>shortcut</key>
 			<string>くるす</string>
 		</dict>
@@ -2770,13 +2806,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の虎将 グルナード</string>
+			<string>グルナード</string>
 			<key>shortcut</key>
 			<string>ぐるなーど</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>グルナード</string>
+			<string>氷結界の虎将 グルナード</string>
 			<key>shortcut</key>
 			<string>ぐるなーど</string>
 		</dict>
@@ -2794,13 +2830,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>グングニール</string>
+			<string>氷結界の龍 グングニール</string>
 			<key>shortcut</key>
 			<string>ぐんぐにーる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の龍 グングニール</string>
+			<string>グングニール</string>
 			<key>shortcut</key>
 			<string>ぐんぐにーる</string>
 		</dict>
@@ -2824,13 +2860,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の決起隊</string>
+			<string>決起隊</string>
 			<key>shortcut</key>
 			<string>けっきたい</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>決起隊</string>
+			<string>氷結界の決起隊</string>
 			<key>shortcut</key>
 			<string>けっきたい</string>
 		</dict>
@@ -2848,13 +2884,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神獣ケルベラル</string>
+			<string>ケルベラル</string>
 			<key>shortcut</key>
 			<string>けるべらる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ケルベラル</string>
+			<string>魔轟神獣ケルベラル</string>
 			<key>shortcut</key>
 			<string>けるべらる</string>
 		</dict>
@@ -2866,13 +2902,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ゲオルギアス</string>
+			<string>氷結界の剣士 ゲオルギアス</string>
 			<key>shortcut</key>
 			<string>げおるぎあす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の剣士 ゲオルギアス</string>
+			<string>ゲオルギアス</string>
 			<key>shortcut</key>
 			<string>げおるぎあす</string>
 		</dict>
@@ -3040,13 +3076,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>幻禄</string>
+			<string>幻禄の天盃龍</string>
 			<key>shortcut</key>
 			<string>げんろく</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>幻禄の天盃龍</string>
+			<string>幻禄</string>
 			<key>shortcut</key>
 			<string>げんろく</string>
 		</dict>
@@ -3112,13 +3148,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>原石の皇脈</string>
+			<string>皇脈</string>
 			<key>shortcut</key>
 			<string>こうみゃく</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>皇脈</string>
+			<string>原石の皇脈</string>
 			<key>shortcut</key>
 			<string>こうみゃく</string>
 		</dict>
@@ -3202,13 +3238,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>トリシューラの鼓動</string>
+			<string>鼓動</string>
 			<key>shortcut</key>
 			<string>こどう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>鼓動</string>
+			<string>トリシューラの鼓動</string>
 			<key>shortcut</key>
 			<string>こどう</string>
 		</dict>
@@ -3274,13 +3310,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>原石の号咆</string>
+			<string>号咆</string>
 			<key>shortcut</key>
 			<string>ごうほう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>号咆</string>
+			<string>原石の号咆</string>
 			<key>shortcut</key>
 			<string>ごうほう</string>
 		</dict>
@@ -3340,13 +3376,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>百鬼羅刹</string>
+			<string>ゴブリンライダー</string>
 			<key>shortcut</key>
 			<string>ごぶりんらいだー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ゴブリンライダー</string>
+			<string>百鬼羅刹</string>
 			<key>shortcut</key>
 			<string>ごぶりんらいだー</string>
 		</dict>
@@ -3514,25 +3550,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>三界流転</string>
-			<key>shortcut</key>
-			<string>さんかいるてん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>竜華三界流転</string>
 			<key>shortcut</key>
 			<string>さんかいるてん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>刻まれし魔の讃聖</string>
+			<string>三界流転</string>
+			<key>shortcut</key>
+			<string>さんかいるてん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>讃聖</string>
 			<key>shortcut</key>
 			<string>さんくとぅす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>讃聖</string>
+			<string>刻まれし魔の讃聖</string>
 			<key>shortcut</key>
 			<string>さんくとぅす</string>
 		</dict>
@@ -3568,13 +3604,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>燦幻荘</string>
+			<string>盃満ちる燦幻荘</string>
 			<key>shortcut</key>
 			<string>さんげんそう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>盃満ちる燦幻荘</string>
+			<string>燦幻荘</string>
 			<key>shortcut</key>
 			<string>さんげんそう</string>
 		</dict>
@@ -3670,13 +3706,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>THE SUN</string>
+			<string>アルカナフォースⅩⅨ－THE SUN</string>
 			<key>shortcut</key>
 			<string>ざさん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>アルカナフォースⅩⅨ－THE SUN</string>
+			<string>THE SUN</string>
 			<key>shortcut</key>
 			<string>ざさん</string>
 		</dict>
@@ -3796,13 +3832,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>影騎士シメーリア</string>
+			<string>シメーリア</string>
 			<key>shortcut</key>
 			<string>しめーりあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>シメーリア</string>
+			<string>影騎士シメーリア</string>
 			<key>shortcut</key>
 			<string>しめーりあ</string>
 		</dict>
@@ -3814,13 +3850,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>極征竜－シャスマティス</string>
+			<string>シャスマティス</string>
 			<key>shortcut</key>
 			<string>しゃすまてぃす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>シャスマティス</string>
+			<string>極征竜－シャスマティス</string>
 			<key>shortcut</key>
 			<string>しゃすまてぃす</string>
 		</dict>
@@ -3874,13 +3910,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の修験者</string>
+			<string>修験者</string>
 			<key>shortcut</key>
 			<string>しゅげんじゃ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>修験者</string>
+			<string>氷結界の修験者</string>
 			<key>shortcut</key>
 			<string>しゅげんじゃ</string>
 		</dict>
@@ -3892,13 +3928,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の守護陣</string>
+			<string>守護陣</string>
 			<key>shortcut</key>
 			<string>しゅごじん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>守護陣</string>
+			<string>氷結界の守護陣</string>
 			<key>shortcut</key>
 			<string>しゅごじん</string>
 		</dict>
@@ -3907,6 +3943,18 @@
 			<string>守護竜</string>
 			<key>shortcut</key>
 			<string>しゅごりゅう</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>シュテルン</string>
+			<key>shortcut</key>
+			<string>しゅてるん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ドラゴンメイド・シュテルン</string>
+			<key>shortcut</key>
+			<string>しゅてるん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -3934,25 +3982,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>晶壁</string>
-			<key>shortcut</key>
-			<string>しょうへき</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>氷結界の晶壁</string>
 			<key>shortcut</key>
 			<string>しょうへき</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>照魔師</string>
+			<string>晶壁</string>
+			<key>shortcut</key>
+			<string>しょうへき</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>氷結界の照魔師</string>
 			<key>shortcut</key>
 			<string>しょうまし</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の照魔師</string>
+			<string>照魔師</string>
 			<key>shortcut</key>
 			<string>しょうまし</string>
 		</dict>
@@ -3976,13 +4024,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>シルヴィア</string>
+			<string>背信聖徒シルヴィア</string>
 			<key>shortcut</key>
 			<string>しるゔぃあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>背信聖徒シルヴィア</string>
+			<string>シルヴィア</string>
 			<key>shortcut</key>
 			<string>しるゔぃあ</string>
 		</dict>
@@ -4324,6 +4372,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>宵星の騎士エンリルギルス</string>
+			<key>shortcut</key>
+			<string>じゃっくないつおるふぇごーるえんりるぎるす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>双穹の騎士</string>
 			<key>shortcut</key>
 			<string>じゃっくないつぱらでぃおん</string>
@@ -4339,6 +4393,12 @@
 			<string>No.65 裁断魔人ジャッジ・バスター</string>
 			<key>shortcut</key>
 			<string>じゃっじばすたー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>P.U.N.K.JAM FEVER！</string>
+			<key>shortcut</key>
+			<string>じゃむふぃーばー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -4372,13 +4432,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の術者</string>
+			<string>術者</string>
 			<key>shortcut</key>
 			<string>じゅつしゃ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>術者</string>
+			<string>氷結界の術者</string>
 			<key>shortcut</key>
 			<string>じゅつしゃ</string>
 		</dict>
@@ -4420,13 +4480,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>浄玻璃</string>
+			<string>氷結界の浄玻璃</string>
 			<key>shortcut</key>
 			<string>じょうはり</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の浄玻璃</string>
+			<string>浄玻璃</string>
 			<key>shortcut</key>
 			<string>じょうはり</string>
 		</dict>
@@ -4546,13 +4606,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ジュラック・スティゴ</string>
+			<string>スティゴ</string>
 			<key>shortcut</key>
 			<string>すてぃご</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>スティゴ</string>
+			<string>ジュラック・スティゴ</string>
 			<key>shortcut</key>
 			<string>すてぃご</string>
 		</dict>
@@ -4570,13 +4630,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ストリーム</string>
+			<string>水征竜－ストリーム</string>
 			<key>shortcut</key>
 			<string>すとりーむ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>水征竜－ストリーム</string>
+			<string>ストリーム</string>
 			<key>shortcut</key>
 			<string>すとりーむ</string>
 		</dict>
@@ -4606,25 +4666,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>No.37 希望織竜スパイダー・シャーク</string>
-			<key>shortcut</key>
-			<string>すぱいだーしゃーく</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>SNo.37 スパイダー・シャーク</string>
 			<key>shortcut</key>
 			<string>すぱいだーしゃーく</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>SPYRAL</string>
+			<string>No.37 希望織竜スパイダー・シャーク</string>
+			<key>shortcut</key>
+			<string>すぱいだーしゃーく</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>螺旋</string>
 			<key>shortcut</key>
 			<string>すぱいらる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>螺旋</string>
+			<string>SPYRAL</string>
 			<key>shortcut</key>
 			<string>すぱいらる</string>
 		</dict>
@@ -4672,13 +4732,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>封印の魔導士スプーン</string>
+			<string>スプーン</string>
 			<key>shortcut</key>
 			<string>すぷーん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>スプーン</string>
+			<string>封印の魔導士スプーン</string>
 			<key>shortcut</key>
 			<string>すぷーん</string>
 		</dict>
@@ -4720,25 +4780,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>スールヤ</string>
-			<key>shortcut</key>
-			<string>すーるや</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>天威龍－スールヤ</string>
 			<key>shortcut</key>
 			<string>すーるや</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>随身</string>
+			<string>スールヤ</string>
+			<key>shortcut</key>
+			<string>すーるや</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>氷結界の随身</string>
 			<key>shortcut</key>
 			<string>ずいじん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の随身</string>
+			<string>随身</string>
 			<key>shortcut</key>
 			<string>ずいじん</string>
 		</dict>
@@ -4822,13 +4882,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界に至る晴嵐</string>
+			<string>晴嵐</string>
 			<key>shortcut</key>
 			<string>せいらん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>晴嵐</string>
+			<string>氷結界に至る晴嵐</string>
 			<key>shortcut</key>
 			<string>せいらん</string>
 		</dict>
@@ -4966,13 +5026,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>センチュリオン</string>
+			<string>影騎士</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>影騎士</string>
+			<string>竜騎士</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
 		</dict>
@@ -4985,12 +5045,6 @@
 		<dict>
 			<key>phrase</key>
 			<string>騎士皇</string>
-			<key>shortcut</key>
-			<string>せんちゅりおん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>竜騎士</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
 		</dict>
@@ -5009,6 +5063,12 @@
 		<dict>
 			<key>phrase</key>
 			<string>重騎兵</string>
+			<key>shortcut</key>
+			<string>せんちゅりおん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>センチュリオン</string>
 			<key>shortcut</key>
 			<string>せんちゅりおん</string>
 		</dict>
@@ -5146,6 +5206,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>創星</string>
+			<key>shortcut</key>
+			<string>そうせい</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>氷結界の霜精</string>
 			<key>shortcut</key>
 			<string>そうせい</string>
@@ -5153,12 +5219,6 @@
 		<dict>
 			<key>phrase</key>
 			<string>霜精</string>
-			<key>shortcut</key>
-			<string>そうせい</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>創星</string>
 			<key>shortcut</key>
 			<string>そうせい</string>
 		</dict>
@@ -5212,13 +5272,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ソルタイト</string>
+			<string>メタル化寄生生物－ソルタイト</string>
 			<key>shortcut</key>
 			<string>そるたいと</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>メタル化寄生生物－ソルタイト</string>
+			<string>ソルタイト</string>
 			<key>shortcut</key>
 			<string>そるたいと</string>
 		</dict>
@@ -5254,13 +5314,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>SNo.38 タイタニック・ギャラクシー</string>
+			<string>No.38 希望魁竜タイタニック・ギャラクシー</string>
 			<key>shortcut</key>
 			<string>たいたにっくぎゃらくしー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>No.38 希望魁竜タイタニック・ギャラクシー</string>
+			<string>SNo.38 タイタニック・ギャラクシー</string>
 			<key>shortcut</key>
 			<string>たいたにっくぎゃらくしー</string>
 		</dict>
@@ -5272,13 +5332,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>瀑征竜－タイダル</string>
+			<string>タイダル</string>
 			<key>shortcut</key>
 			<string>たいだる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>タイダル</string>
+			<string>瀑征竜－タイダル</string>
 			<key>shortcut</key>
 			<string>たいだる</string>
 		</dict>
@@ -5332,13 +5392,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>旅立ちの暁光</string>
+			<string>Fairy Tale 序章 旅立ちの暁光</string>
 			<key>shortcut</key>
 			<string>たびだちのぎょうこう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>Fairy Tale 序章 旅立ちの暁光</string>
+			<string>旅立ちの暁光</string>
 			<key>shortcut</key>
 			<string>たびだちのぎょうこう</string>
 		</dict>
@@ -5482,6 +5542,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>ダーク・ナイト</string>
+			<key>shortcut</key>
+			<string>だーくないと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>CNo.101 S・H・Dark Knight</string>
 			<key>shortcut</key>
 			<string>だーくないと</string>
@@ -5489,12 +5555,6 @@
 		<dict>
 			<key>phrase</key>
 			<string>E-HERO ダーク・ナイト</string>
-			<key>shortcut</key>
-			<string>だーくないと</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>ダーク・ナイト</string>
 			<key>shortcut</key>
 			<string>だーくないと</string>
 		</dict>
@@ -5560,13 +5620,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神獣チャワ</string>
+			<string>チャワ</string>
 			<key>shortcut</key>
 			<string>ちゃわ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>チャワ</string>
+			<string>魔轟神獣チャワ</string>
 			<key>shortcut</key>
 			<string>ちゃわ</string>
 		</dict>
@@ -5776,12 +5836,6 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>星騎士</string>
-			<key>shortcut</key>
-			<string>てらないと</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>煉獄の騎士</string>
 			<key>shortcut</key>
 			<string>てらないと</string>
@@ -5789,6 +5843,12 @@
 		<dict>
 			<key>phrase</key>
 			<string>星守の騎士</string>
+			<key>shortcut</key>
+			<string>てらないと</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>星騎士</string>
 			<key>shortcut</key>
 			<string>てらないと</string>
 		</dict>
@@ -5950,13 +6010,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ディエスイレ</string>
+			<string>刻まれし魔ディエスイレ</string>
 			<key>shortcut</key>
 			<string>でぃえすいれ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>刻まれし魔ディエスイレ</string>
+			<string>ディエスイレ</string>
 			<key>shortcut</key>
 			<string>でぃえすいれ</string>
 		</dict>
@@ -5998,13 +6058,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神ディフ</string>
+			<string>ディフ</string>
 			<key>shortcut</key>
 			<string>でぃふ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ディフ</string>
+			<string>魔轟神ディフ</string>
 			<key>shortcut</key>
 			<string>でぃふ</string>
 		</dict>
@@ -6130,13 +6190,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>E-HERO デス・プリズン</string>
+			<string>デス・プリズン</string>
 			<key>shortcut</key>
 			<string>ですぷりずん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>デス・プリズン</string>
+			<string>E-HERO デス・プリズン</string>
 			<key>shortcut</key>
 			<string>ですぷりずん</string>
 		</dict>
@@ -6178,13 +6238,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>メタル・デビルゾアX</string>
+			<string>悪魔獣デビルゾア</string>
 			<key>shortcut</key>
 			<string>でびるぞあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>悪魔獣デビルゾア</string>
+			<string>メタル・デビルゾアX</string>
 			<key>shortcut</key>
 			<string>でびるぞあ</string>
 		</dict>
@@ -6208,13 +6268,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔を刻むデモンスミス</string>
+			<string>刻まれし魔</string>
 			<key>shortcut</key>
 			<string>でもんすみす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>刻まれし魔</string>
+			<string>魔を刻むデモンスミス</string>
 			<key>shortcut</key>
 			<string>でもんすみす</string>
 		</dict>
@@ -6364,13 +6424,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>従騎士トゥルーデア</string>
+			<string>トゥルーデア</string>
 			<key>shortcut</key>
 			<string>とぅるーであ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>トゥルーデア</string>
+			<string>従騎士トゥルーデア</string>
 			<key>shortcut</key>
 			<string>とぅるーであ</string>
 		</dict>
@@ -6508,7 +6568,7 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷獄龍 トリシューラ</string>
+			<string>トリシューラ</string>
 			<key>shortcut</key>
 			<string>とりしゅーら</string>
 		</dict>
@@ -6520,7 +6580,7 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>トリシューラ</string>
+			<string>氷獄龍 トリシューラ</string>
 			<key>shortcut</key>
 			<string>とりしゅーら</string>
 		</dict>
@@ -6652,13 +6712,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>教導</string>
+			<string>凶導</string>
 			<key>shortcut</key>
 			<string>どらぐま</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>凶導</string>
+			<string>教導</string>
 			<key>shortcut</key>
 			<string>どらぐま</string>
 		</dict>
@@ -6679,6 +6739,24 @@
 			<string>玲瓏竜クンツァイド</string>
 			<key>shortcut</key>
 			<string>どらごりしあくんつぁいど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ドラゴンメイド</string>
+			<key>shortcut</key>
+			<string>どらごんめいど</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ドラゴンメイド・シュテルン</string>
+			<key>shortcut</key>
+			<string>どらごんめいどしゅてるん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ドラゴンメイド・ラティス</string>
+			<key>shortcut</key>
+			<string>どらごんめいどらてぃす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -6718,13 +6796,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>Dormouse</string>
+			<string>M∀LICE＜P＞Dormouse</string>
 			<key>shortcut</key>
 			<string>どーまうす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>M∀LICE＜P＞Dormouse</string>
+			<string>Dormouse</string>
 			<key>shortcut</key>
 			<string>どーまうす</string>
 		</dict>
@@ -6772,13 +6850,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>マルチャミー・ニャルス</string>
+			<string>ニャルス</string>
 			<key>shortcut</key>
 			<string>にゃるす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ニャルス</string>
+			<string>マルチャミー・ニャルス</string>
 			<key>shortcut</key>
 			<string>にゃるす</string>
 		</dict>
@@ -6874,13 +6952,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>E-HERO ネオス・ロード</string>
+			<string>ネオス・ロード</string>
 			<key>shortcut</key>
 			<string>ねおすろーど</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ネオス・ロード</string>
+			<string>E-HERO ネオス・ロード</string>
 			<key>shortcut</key>
 			<string>ねおすろーど</string>
 		</dict>
@@ -6958,13 +7036,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>闇征竜－ネビュラス</string>
+			<string>ネビュラス</string>
 			<key>shortcut</key>
 			<string>ねびゅらす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ネビュラス</string>
+			<string>闇征竜－ネビュラス</string>
 			<key>shortcut</key>
 			<string>ねびゅらす</string>
 		</dict>
@@ -6997,6 +7075,18 @@
 			<string>The tyrant NEPTUNE</string>
 			<key>shortcut</key>
 			<string>ねぷちゅーん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>No－P.U.N.K.</string>
+			<key>shortcut</key>
+			<string>のうぱんく</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>No－P.U.N.K.ライジング・スケール</string>
+			<key>shortcut</key>
+			<string>のうぱんくらいじんぐすけーる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -7084,13 +7174,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>霸巴</string>
+			<string>幻朧竜華－霸巴</string>
 			<key>shortcut</key>
 			<string>はくば</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>幻朧竜華－霸巴</string>
+			<string>霸巴</string>
 			<key>shortcut</key>
 			<string>はくば</string>
 		</dict>
@@ -7108,13 +7198,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の破術師</string>
+			<string>破術師</string>
 			<key>shortcut</key>
 			<string>はじゅつし</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>破術師</string>
+			<string>氷結界の破術師</string>
 			<key>shortcut</key>
 			<string>はじゅつし</string>
 		</dict>
@@ -7150,13 +7240,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>アザミナ・ハマルティア</string>
+			<string>ハマルティア</string>
 			<key>shortcut</key>
 			<string>はまるてぃあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ハマルティア</string>
+			<string>アザミナ・ハマルティア</string>
 			<key>shortcut</key>
 			<string>はまるてぃあ</string>
 		</dict>
@@ -7180,13 +7270,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>反叫</string>
+			<string>原石の反叫</string>
 			<key>shortcut</key>
 			<string>はんきょう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>原石の反叫</string>
+			<string>反叫</string>
 			<key>shortcut</key>
 			<string>はんきょう</string>
 		</dict>
@@ -7228,25 +7318,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>Heart－eartH Chaos Dragon</string>
-			<key>shortcut</key>
-			<string>はーとあーすかおすどらごん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>CNo.92 偽骸虚龍 Heart－eartH Chaos Dragon</string>
 			<key>shortcut</key>
 			<string>はーとあーすかおすどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>No.92 偽骸神龍 Heart－eartH Dragon</string>
+			<string>Heart－eartH Chaos Dragon</string>
+			<key>shortcut</key>
+			<string>はーとあーすかおすどらごん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>Heart－eartH Dragon</string>
 			<key>shortcut</key>
 			<string>はーとあーすどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>Heart－eartH Dragon</string>
+			<string>No.92 偽骸神龍 Heart－eartH Dragon</string>
 			<key>shortcut</key>
 			<string>はーとあーすどらごん</string>
 		</dict>
@@ -7294,13 +7384,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>背反の料理人</string>
+			<string>No.59 背反の料理人</string>
 			<key>shortcut</key>
 			<string>ばっくざこっく</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>No.59 背反の料理人</string>
+			<string>背反の料理人</string>
 			<key>shortcut</key>
 			<string>ばっくざこっく</string>
 		</dict>
@@ -7384,13 +7474,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>パイドラ</string>
+			<string>天盃龍パイドラ</string>
 			<key>shortcut</key>
 			<string>ぱいどら</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>天盃龍パイドラ</string>
+			<string>パイドラ</string>
 			<key>shortcut</key>
 			<string>ぱいどら</string>
 		</dict>
@@ -7408,13 +7498,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>刻まれし魔の楽園</string>
+			<string>楽園</string>
 			<key>shortcut</key>
 			<string>ぱらでぃずむ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>楽園</string>
+			<string>刻まれし魔の楽園</string>
 			<key>shortcut</key>
 			<string>ぱらでぃずむ</string>
 		</dict>
@@ -7435,6 +7525,12 @@
 			<string>P.U.N.K.</string>
 			<key>shortcut</key>
 			<string>ぱんく</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>P.U.N.K.JAM FEVER！</string>
+			<key>shortcut</key>
+			<string>ぱんくじゃむふぃーばー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -7486,13 +7582,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>万物の始源－「水」</string>
+			<string>水</string>
 			<key>shortcut</key>
 			<string>ひゅどーる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>水</string>
+			<string>万物の始源－「水」</string>
 			<key>shortcut</key>
 			<string>ひゅどーる</string>
 		</dict>
@@ -7972,13 +8068,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の風水師</string>
+			<string>風水師</string>
 			<key>shortcut</key>
 			<string>ふうすいし</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>風水師</string>
+			<string>氷結界の風水師</string>
 			<key>shortcut</key>
 			<string>ふうすいし</string>
 		</dict>
@@ -7996,25 +8092,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の封魔団</string>
-			<key>shortcut</key>
-			<string>ふうまだん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>封魔団</string>
 			<key>shortcut</key>
 			<string>ふうまだん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>Fairy Tale</string>
+			<string>氷結界の封魔団</string>
+			<key>shortcut</key>
+			<string>ふうまだん</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>妖精伝姫</string>
 			<key>shortcut</key>
 			<string>ふぇありーている</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>妖精伝姫</string>
+			<string>Fairy Tale</string>
 			<key>shortcut</key>
 			<string>ふぇありーている</string>
 		</dict>
@@ -8050,13 +8146,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>光子卿</string>
+			<string>No.90 銀河眼の光子卿</string>
 			<key>shortcut</key>
 			<string>ふぉとんろーど</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>No.90 銀河眼の光子卿</string>
+			<string>光子卿</string>
 			<key>shortcut</key>
 			<string>ふぉとんろーど</string>
 		</dict>
@@ -8140,13 +8236,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>No.64 古狸三太夫</string>
+			<string>古狸三太夫</string>
 			<key>shortcut</key>
 			<string>ふるだぬきさんだゆう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>古狸三太夫</string>
+			<string>No.64 古狸三太夫</string>
 			<key>shortcut</key>
 			<string>ふるだぬきさんだゆう</string>
 		</dict>
@@ -8164,25 +8260,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>メタル化・鋼炎装甲</string>
-			<key>shortcut</key>
-			<string>ふれいむこーてぃんぐ</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>鋼炎装甲</string>
 			<key>shortcut</key>
 			<string>ふれいむこーてぃんぐ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>フワロス</string>
+			<string>メタル化・鋼炎装甲</string>
+			<key>shortcut</key>
+			<string>ふれいむこーてぃんぐ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>マルチャミー・フワロス</string>
 			<key>shortcut</key>
 			<string>ふわろす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>マルチャミー・フワロス</string>
+			<string>フワロス</string>
 			<key>shortcut</key>
 			<string>ふわろす</string>
 		</dict>
@@ -8224,13 +8320,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ブラスター</string>
+			<string>焔征竜－ブラスター</string>
 			<key>shortcut</key>
 			<string>ぶらすたー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>焔征竜－ブラスター</string>
+			<string>ブラスター</string>
 			<key>shortcut</key>
 			<string>ぶらすたー</string>
 		</dict>
@@ -8302,13 +8398,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>レッドアイズ・ブラックメタルドラゴン</string>
+			<string>黒鋼竜</string>
 			<key>shortcut</key>
 			<string>ぶらっくめたるどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>黒鋼竜</string>
+			<string>レッドアイズ・ブラックメタルドラゴン</string>
 			<key>shortcut</key>
 			<string>ぶらっくめたるどらごん</string>
 		</dict>
@@ -8326,13 +8422,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷魔龍 ブリューナク</string>
+			<string>ブリューナク</string>
 			<key>shortcut</key>
 			<string>ぶりゅーなく</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ブリューナク</string>
+			<string>氷魔龍 ブリューナク</string>
 			<key>shortcut</key>
 			<string>ぶりゅーなく</string>
 		</dict>
@@ -8446,13 +8542,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>光子竜皇</string>
+			<string>銀河眼の光子竜皇</string>
 			<key>shortcut</key>
 			<string>ぷらいむふぉとんどらごん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>銀河眼の光子竜皇</string>
+			<string>光子竜皇</string>
 			<key>shortcut</key>
 			<string>ぷらいむふぉとんどらごん</string>
 		</dict>
@@ -8500,13 +8596,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>プルリア</string>
+			<string>マルチャミー・プルリア</string>
 			<key>shortcut</key>
 			<string>ぷるりあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>マルチャミー・プルリア</string>
+			<string>プルリア</string>
 			<key>shortcut</key>
 			<string>ぷるりあ</string>
 		</dict>
@@ -8566,13 +8662,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>E-HERO ヘル・ライダー</string>
+			<string>ヘル・ライダー</string>
 			<key>shortcut</key>
 			<string>へるらいだー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ヘル・ライダー</string>
+			<string>E-HERO ヘル・ライダー</string>
 			<key>shortcut</key>
 			<string>へるらいだー</string>
 		</dict>
@@ -8608,13 +8704,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神獣ペガラサス</string>
+			<string>ペガラサス</string>
 			<key>shortcut</key>
 			<string>ぺがらさす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ペガラサス</string>
+			<string>魔轟神獣ペガラサス</string>
 			<key>shortcut</key>
 			<string>ぺがらさす</string>
 		</dict>
@@ -8662,25 +8758,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>M∀LICE＜Q＞WHITE BINDER</string>
-			<key>shortcut</key>
-			<string>ほわいとばいんだー</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>WHITE BINDER</string>
 			<key>shortcut</key>
 			<string>ほわいとばいんだー</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>White Rabbit</string>
+			<string>M∀LICE＜Q＞WHITE BINDER</string>
+			<key>shortcut</key>
+			<string>ほわいとばいんだー</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>M∀LICE＜P＞White Rabbit</string>
 			<key>shortcut</key>
 			<string>ほわいとらびっと</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>M∀LICE＜P＞White Rabbit</string>
+			<string>White Rabbit</string>
 			<key>shortcut</key>
 			<string>ほわいとらびっと</string>
 		</dict>
@@ -8872,19 +8968,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>マギストス</string>
-			<key>shortcut</key>
-			<string>まぎすとす</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>法典</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>結晶</string>
+			<string>聖魔</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
@@ -8896,19 +8986,25 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>精霊</string>
-			<key>shortcut</key>
-			<string>まぎすとす</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>魔導士</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>聖魔</string>
+			<string>精霊</string>
+			<key>shortcut</key>
+			<string>まぎすとす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>マギストス</string>
+			<key>shortcut</key>
+			<string>まぎすとす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>結晶</string>
 			<key>shortcut</key>
 			<string>まぎすとす</string>
 		</dict>
@@ -9226,13 +9322,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔酔虫</string>
+			<string>氷結界に住む魔酔虫</string>
 			<key>shortcut</key>
 			<string>ますいちゅう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界に住む魔酔虫</string>
+			<string>魔酔虫</string>
 			<key>shortcut</key>
 			<string>ますいちゅう</string>
 		</dict>
@@ -9406,7 +9502,7 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>メタル化・魔法反射装甲</string>
+			<string>魔法反射装甲</string>
 			<key>shortcut</key>
 			<string>まほうはんしゃそうこう</string>
 		</dict>
@@ -9418,7 +9514,7 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔法反射装甲</string>
+			<string>メタル化・魔法反射装甲</string>
 			<key>shortcut</key>
 			<string>まほうはんしゃそうこう</string>
 		</dict>
@@ -9520,13 +9616,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神マルコシア</string>
+			<string>マルコシア</string>
 			<key>shortcut</key>
 			<string>まるこしあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>マルコシア</string>
+			<string>魔轟神マルコシア</string>
 			<key>shortcut</key>
 			<string>まるこしあ</string>
 		</dict>
@@ -9622,13 +9718,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>光巴</string>
+			<string>創星竜華－光巴</string>
 			<key>shortcut</key>
 			<string>みつば</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>創星竜華－光巴</string>
+			<string>光巴</string>
 			<key>shortcut</key>
 			<string>みつば</string>
 		</dict>
@@ -9760,13 +9856,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ムーラ・アーダラ</string>
+			<string>天威龍－ムーラ・アーダラ</string>
 			<key>shortcut</key>
 			<string>むーらあーだら</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>天威龍－ムーラ・アーダラ</string>
+			<string>ムーラ・アーダラ</string>
 			<key>shortcut</key>
 			<string>むーらあーだら</string>
 		</dict>
@@ -9820,13 +9916,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>原石の鳴獰</string>
+			<string>鳴獰</string>
 			<key>shortcut</key>
 			<string>めいどう</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>鳴獰</string>
+			<string>原石の鳴獰</string>
 			<key>shortcut</key>
 			<string>めいどう</string>
 		</dict>
@@ -9862,6 +9958,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>メタル化</string>
+			<key>shortcut</key>
+			<string>めたるか</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>メタル化・強化反射装甲</string>
 			<key>shortcut</key>
 			<string>めたるか</string>
@@ -9869,12 +9971,6 @@
 		<dict>
 			<key>phrase</key>
 			<string>メタル化・魔法反射装甲</string>
-			<key>shortcut</key>
-			<string>めたるか</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>メタル化</string>
 			<key>shortcut</key>
 			<string>めたるか</string>
 		</dict>
@@ -10132,21 +10228,15 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>輸送部隊</string>
-			<key>shortcut</key>
-			<string>ゆそうぶたい</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>氷結界の輸送部隊</string>
 			<key>shortcut</key>
 			<string>ゆそうぶたい</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神獣ユニコール</string>
+			<string>輸送部隊</string>
 			<key>shortcut</key>
-			<string>ゆにこーる</string>
+			<string>ゆそうぶたい</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -10156,9 +10246,9 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ユベル</string>
+			<string>魔轟神獣ユニコール</string>
 			<key>shortcut</key>
-			<string>ゆべる</string>
+			<string>ゆにこーる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -10175,6 +10265,12 @@
 		<dict>
 			<key>phrase</key>
 			<string>ユベル－Das Extremer Traurig Drachen</string>
+			<key>shortcut</key>
+			<string>ゆべる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ユベル</string>
 			<key>shortcut</key>
 			<string>ゆべる</string>
 		</dict>
@@ -10228,13 +10324,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>アザミナの妖魔</string>
+			<string>妖魔</string>
 			<key>shortcut</key>
 			<string>ようま</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>妖魔</string>
+			<string>アザミナの妖魔</string>
 			<key>shortcut</key>
 			<string>ようま</string>
 		</dict>
@@ -10246,13 +10342,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>依巫</string>
+			<string>氷結界の依巫</string>
 			<key>shortcut</key>
 			<string>よりまし</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷結界の依巫</string>
+			<string>依巫</string>
 			<key>shortcut</key>
 			<string>よりまし</string>
 		</dict>
@@ -10297,6 +10393,18 @@
 			<string>ライク・ザ・ディアベル</string>
 			<key>shortcut</key>
 			<string>らいくざでぃあべる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>No－P.U.N.K.ライジング・スケール</string>
+			<key>shortcut</key>
+			<string>らいじんぐすけーる</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ライジング・スケール</string>
+			<key>shortcut</key>
+			<string>らいじんぐすけーる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -10360,13 +10468,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>風征竜－ライトニング</string>
+			<string>ライトニング</string>
 			<key>shortcut</key>
 			<string>らいとにんぐ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ライトニング</string>
+			<string>風征竜－ライトニング</string>
 			<key>shortcut</key>
 			<string>らいとにんぐ</string>
 		</dict>
@@ -10414,13 +10522,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>紅涙の魔ラクリモーサ</string>
+			<string>刻まれし魔ラクリモーサ</string>
 			<key>shortcut</key>
 			<string>らくりもーさ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>刻まれし魔ラクリモーサ</string>
+			<string>紅涙の魔ラクリモーサ</string>
 			<key>shortcut</key>
 			<string>らくりもーさ</string>
 		</dict>
@@ -10456,6 +10564,18 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>ドラゴンメイド・ラティス</string>
+			<key>shortcut</key>
+			<string>らてぃす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>ラティス</string>
+			<key>shortcut</key>
+			<string>らてぃす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>白銀の城</string>
 			<key>shortcut</key>
 			<string>らびゅりんす</string>
@@ -10486,13 +10606,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ランセア</string>
+			<string>氷霊山の龍祖 ランセア</string>
 			<key>shortcut</key>
 			<string>らんせあ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>氷霊山の龍祖 ランセア</string>
+			<string>ランセア</string>
 			<key>shortcut</key>
 			<string>らんせあ</string>
 		</dict>
@@ -10672,13 +10792,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>告死聖徒ルシエラーゴ</string>
+			<string>ルシエラーゴ</string>
 			<key>shortcut</key>
 			<string>るしえらーご</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ルシエラーゴ</string>
+			<string>告死聖徒ルシエラーゴ</string>
 			<key>shortcut</key>
 			<string>るしえらーご</string>
 		</dict>
@@ -10696,13 +10816,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ルビィラーダ</string>
+			<string>魔轟神獣ルビィラーダ</string>
 			<key>shortcut</key>
 			<string>るびぃらーだ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神獣ルビィラーダ</string>
+			<string>ルビィラーダ</string>
 			<key>shortcut</key>
 			<string>るびぃらーだ</string>
 		</dict>
@@ -10726,13 +10846,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>レアメタル化・魔法反射装甲</string>
+			<string>レアメタル化</string>
 			<key>shortcut</key>
 			<string>れあめたるか</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>レアメタル化</string>
+			<string>レアメタル化・魔法反射装甲</string>
 			<key>shortcut</key>
 			<string>れあめたるか</string>
 		</dict>
@@ -10750,13 +10870,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>レイジオン</string>
+			<string>魔轟神レイジオン</string>
 			<key>shortcut</key>
 			<string>れいじおん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神レイジオン</string>
+			<string>レイジオン</string>
 			<key>shortcut</key>
 			<string>れいじおん</string>
 		</dict>
@@ -10792,21 +10912,15 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神レイヴン</string>
-			<key>shortcut</key>
-			<string>れいゔん</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
 			<string>レイヴン</string>
 			<key>shortcut</key>
 			<string>れいゔん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>レガーティア</string>
+			<string>魔轟神レイヴン</string>
 			<key>shortcut</key>
-			<string>れがーてぃあ</string>
+			<string>れいゔん</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
@@ -10816,13 +10930,19 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>鎮魂棺</string>
+			<string>レガーティア</string>
+			<key>shortcut</key>
+			<string>れがーてぃあ</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
+			<string>刻まれし魔の鎮魂棺</string>
 			<key>shortcut</key>
 			<string>れくいえむ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>刻まれし魔の鎮魂棺</string>
+			<string>鎮魂棺</string>
 			<key>shortcut</key>
 			<string>れくいえむ</string>
 		</dict>
@@ -10834,13 +10954,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>刻まれし魔レクストレメンデ</string>
+			<string>レクストレメンデ</string>
 			<key>shortcut</key>
 			<string>れくすとれめんで</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>レクストレメンデ</string>
+			<string>刻まれし魔レクストレメンデ</string>
 			<key>shortcut</key>
 			<string>れくすとれめんで</string>
 		</dict>
@@ -11002,13 +11122,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>RED RANSOM</string>
+			<string>M∀LICE＜Q＞RED RANSOM</string>
 			<key>shortcut</key>
 			<string>れっどらんさむ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>M∀LICE＜Q＞RED RANSOM</string>
+			<string>RED RANSOM</string>
 			<key>shortcut</key>
 			<string>れっどらんさむ</string>
 		</dict>
@@ -11020,13 +11140,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>レドックス</string>
+			<string>巌征竜－レドックス</string>
 			<key>shortcut</key>
 			<string>れどっくす</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>巌征竜－レドックス</string>
+			<string>レドックス</string>
 			<key>shortcut</key>
 			<string>れどっくす</string>
 		</dict>
@@ -11038,13 +11158,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>レヴェルゼブル</string>
+			<string>魔轟神レヴェルゼブル</string>
 			<key>shortcut</key>
 			<string>れゔぇるぜぶる</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>魔轟神レヴェルゼブル</string>
+			<string>レヴェルゼブル</string>
 			<key>shortcut</key>
 			<string>れゔぇるぜぶる</string>
 		</dict>
@@ -11200,6 +11320,12 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
+			<string>滅亡龍 ヴェイドス</string>
+			<key>shortcut</key>
+			<string>ゔぇいどす</string>
+		</dict>
+		<dict>
+			<key>phrase</key>
 			<string>滅亡き闇 ヴェイドス</string>
 			<key>shortcut</key>
 			<string>ゔぇいどす</string>
@@ -11207,12 +11333,6 @@
 		<dict>
 			<key>phrase</key>
 			<string>ヴェイドス</string>
-			<key>shortcut</key>
-			<string>ゔぇいどす</string>
-		</dict>
-		<dict>
-			<key>phrase</key>
-			<string>滅亡龍 ヴェイドス</string>
 			<key>shortcut</key>
 			<string>ゔぇいどす</string>
 		</dict>
@@ -11242,13 +11362,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ヴォイドルーツ</string>
+			<string>ジェムナイト・ヴォイドルーツ</string>
 			<key>shortcut</key>
 			<string>ゔぉいどるーつ</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ジェムナイト・ヴォイドルーツ</string>
+			<string>ヴォイドルーツ</string>
 			<key>shortcut</key>
 			<string>ゔぉいどるーつ</string>
 		</dict>
@@ -11260,13 +11380,13 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ヴォルケーノ</string>
+			<string>ジュラック・ヴォルケーノ</string>
 			<key>shortcut</key>
 			<string>ゔぉるけーの</string>
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>ジュラック・ヴォルケーノ</string>
+			<string>ヴォルケーノ</string>
 			<key>shortcut</key>
 			<string>ゔぉるけーの</string>
 		</dict>
